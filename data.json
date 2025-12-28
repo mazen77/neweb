@@ -1,0 +1,222 @@
+{
+  "bookMeeting": {
+    "title": "Book a meeting",
+    "subtitle": "Choose a quick call to align on scope, timeline, and deliverables.",
+    "links": [
+      {
+        "label": "Book 30 min",
+        "url": "https://cal.com/mazen-tech-avrm94/30min"
+      },
+      {
+        "label": "Book 15 min",
+        "url": ""
+      }
+    ]
+  },
+  "websites": [
+    {
+      "domain": "naqi.sa",
+      "category": "Website / Platform Ops",
+      "description": "Ops + performance + analytics improvements.",
+      "url": "https://naqi.sa"
+    },
+    {
+      "domain": "diva.sa",
+      "category": "E-commerce / Performance",
+      "description": "Performance, stability, and tracking enhancements.",
+      "url": "https://diva.sa"
+    },
+    {
+      "domain": "alkhayalksa.net",
+      "category": "Website / Maintenance",
+      "description": "Maintenance, updates, and technical optimizations.",
+      "url": "https://alkhayalksa.net"
+    },
+    {
+      "domain": "eqlaa.net",
+      "category": "Website / SEO Setup",
+      "description": "SEO/analytics setup and speed improvements.",
+      "url": "https://eqlaa.net"
+    },
+    {
+      "domain": "thezawaya.com",
+      "category": "Website / UI & Ops",
+      "description": "UI/UX refinements and operational improvements.",
+      "url": "https://thezawaya.com"
+    },
+    {
+      "domain": "themiran.net",
+      "category": "Website / Performance",
+      "description": "Performance tuning and reliability improvements.",
+      "url": "https://themiran.net"
+    },
+    {
+      "domain": "ja4t.org",
+      "category": "Organization Website",
+      "description": "Content + structure + stability upgrades.",
+      "url": "https://ja4t.org"
+    },
+    {
+      "domain": "kq-lawfirm.com",
+      "category": "Law Firm Website",
+      "description": "Professional website operations and optimization.",
+      "url": "https://kq-lawfirm.com"
+    }
+  ],
+  "mediaKit": {
+    "headline": "Media Kit",
+    "subheadline": "Clear collab packages + add‑ons — ready to send to brands.",
+    "audience": {
+      "text": "GCC & MENA tech audience (TikTok, Instagram, YouTube, Snapchat).",
+      "stats": [
+        {
+          "label": "Instagram",
+          "value": "176.3K"
+        },
+        {
+          "label": "TikTok",
+          "value": "700K+"
+        },
+        {
+          "label": "Region",
+          "value": "GCC/MENA"
+        }
+      ],
+      "note": "Update numbers/packages easily via data.json — no code changes needed."
+    },
+    "packages": [
+      {
+        "tier": "Low",
+        "price_from": "2,500 SAR",
+        "usage_rights": "7 days",
+        "included": "Not included",
+        "bullets": [
+          "Post on all social channels (cross-post)",
+          "Repost to Story",
+          "Link in bio (24h)"
+        ],
+        "flags": []
+      },
+      {
+        "tier": "Mid",
+        "price_from": "6,500 SAR",
+        "usage_rights": "30 days",
+        "included": "Included",
+        "bullets": [
+          "Post on all social channels (cross-post)",
+          "Repost to Story",
+          "Link in bio (72h)",
+          "Authorization code included"
+        ],
+        "flags": []
+      },
+      {
+        "tier": "High",
+        "price_from": "12,500 SAR",
+        "usage_rights": "90 days",
+        "included": "Included",
+        "bullets": [
+          "Post on all social channels (cross-post)",
+          "Repost to Story",
+          "Link in bio (7 days)",
+          "Authorization code included",
+          "Priority scheduling"
+        ],
+        "flags": [
+          "Most requested"
+        ]
+      }
+    ],
+    "addons": [
+      "Extended usage rights (add days/months)",
+      "Whitelisting / Spark Ads setup (if applicable)",
+      "Extra link-in-bio duration"
+    ]
+  },
+  "brands": {
+    "headline": "Brands I collaborated with",
+    "subheadline": "A few recognizable names (logo tiles). Replace or reorder anytime in data.json.",
+    "items": [
+      {
+        "name": "Apple",
+        "slug": "apple"
+      },
+      {
+        "name": "Google",
+        "slug": "google"
+      },
+      {
+        "name": "Microsoft",
+        "slug": "microsoft"
+      },
+      {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      {
+        "name": "Meta",
+        "slug": "meta"
+      },
+      {
+        "name": "NVIDIA",
+        "slug": "nvidia"
+      },
+      {
+        "name": "Samsung",
+        "slug": "samsung"
+      },
+      {
+        "name": "Intel",
+        "slug": "intel"
+      },
+      {
+        "name": "IBM",
+        "slug": "ibm"
+      },
+      {
+        "name": "Oracle",
+        "slug": "oracle"
+      },
+      {
+        "name": "Cisco",
+        "slug": "cisco"
+      },
+      {
+        "name": "Adobe",
+        "slug": "adobe"
+      },
+      {
+        "name": "Salesforce",
+        "slug": "salesforce"
+      },
+      {
+        "name": "Huawei",
+        "slug": "huawei"
+      },
+      {
+        "name": "Xiaomi",
+        "slug": "xiaomi"
+      },
+      {
+        "name": "Sony",
+        "slug": "sony"
+      },
+      {
+        "name": "Dell",
+        "slug": "dell"
+      },
+      {
+        "name": "HP",
+        "slug": "hp"
+      },
+      {
+        "name": "Lenovo",
+        "slug": "lenovo"
+      },
+      {
+        "name": "Netflix",
+        "slug": "netflix"
+      }
+    ]
+  }
+}
